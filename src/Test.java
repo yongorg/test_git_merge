@@ -11,4 +11,8 @@ public class Test {
     public static void fun1(String[] args) {
         System.out.println("fun1；");
     }
+
+    public static void fun2(String[] args) {
+        System.out.println("fun2；");
+    }
 }
