@@ -11,4 +11,8 @@ public class Test {
     public static void fun1() {
         System.out.println("dev func1");
     }
+
+    public static void fun2() {
+        System.out.println("fun2");
+    }
 }
