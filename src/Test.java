@@ -5,6 +5,6 @@
 public class Test {
 
     public static void main(String[] args) {
-        System.out.println("方法一1 ；");
+        System.out.println("方法 手动 base");
     }
 }
